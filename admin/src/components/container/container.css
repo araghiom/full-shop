@@ -1,0 +1,11 @@
+
+.container{
+    display: flex;
+    position: sticky;
+}
+
+.wrapper{
+    height: 100%;
+   
+    width: 100%;
+}
